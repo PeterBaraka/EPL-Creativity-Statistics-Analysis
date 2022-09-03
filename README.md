@@ -1,4 +1,4 @@
-# peter_opiyo_udacity_project
+# EPL Creativity Statistics Analysis
 
 ## Project Description
 
